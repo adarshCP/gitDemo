@@ -14,7 +14,7 @@ public class AmazonSearchPractice {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 		WebDriver driver = new ChromeDriver();
-		driver.get("https://www.amazon.in/");
+		driver.get("https://www.amazon.idadan/");
 		
 		driver.findElement(By.xpath("//input[@id='twotabsearchtextbox']")).sendKeys("Apple iPhone 15 Pro Max");
 		
