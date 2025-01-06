@@ -1,6 +1,6 @@
 package amazonpractice;
 
 public class Test {
-	String name ="adarsh";
+	String name ="adarsh1";
 
 }
